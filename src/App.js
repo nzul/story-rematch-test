@@ -30,8 +30,8 @@ class App extends Component {
           <button onClick={incrementAsync}>Increment Asynchronous</button>
         </div>
         <div>
-          <button onClick={sasdasd}>Tambuah</button>
-          <button onClick={incarementsdfsdAsyncasdfMANTABBBB}>Tambuah Asynchronous</button>
+          <button onClick={incrementAJAHHHH}>Tambuah</button>
+          <button onClick={incrementAsyncMANTABBBB}>Tambuah Asynchronous</button>
         </div>
       </div>
     );
